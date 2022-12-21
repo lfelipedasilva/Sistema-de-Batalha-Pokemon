@@ -1,3 +1,5 @@
+# movimentos dos pokemons e calculo de dano
+
 from modulos_pessoais import cores as c
 
 

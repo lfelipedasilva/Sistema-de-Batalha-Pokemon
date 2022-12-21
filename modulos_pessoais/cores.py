@@ -1,3 +1,5 @@
+#módulo de cores (não funciona em input's)
+
 from rich import print
 
 # PRINT

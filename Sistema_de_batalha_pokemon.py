@@ -722,3 +722,4 @@ if opIni == 'ARCEUS':
 
 # Se eu quisesse eu podia ter encurtado o código modularizando as batalhas ja que a base delas
 # é basicamente um CTRL c CTRL v mas fiquei com preguiça :v (o que é meio contraditório, srsr mas enfim)
+# :)
